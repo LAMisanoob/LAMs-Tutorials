@@ -18,9 +18,7 @@ Unix history, Linux History
 Late  1960s; Kenneth Thompson, and Dennis Ritchie, develop Unix.   
 Early 1970s; Rewritten in C, Unix is one of the first operating systems able to run on any hardware.   
 Late  1970s; V7 Unix was released, the grandfather of all extant Unix systems.  
-Late  1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix.   
-
-Hardware vendors switched to AT&T. AT&T won the "war", however, System V incorporated many BSD innovations, so more of a merger. Though BSD did not die.
+Late  1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix. Hardware vendors switched to AT&T. AT&T won the "war", however, System V incorporated many BSD innovations, so more of a merger. Though BSD did not die.
 The result was many versions of Unix. Most proprietary, though three open source versions remained: FreeBSD, NetBSD, and OpenBSD.
 
 Old yet interesting advocacy piece arguing for using Unix (instead of Microsoft) is John Kirch’s paper “Microsoft Windows NT Server 4.0 versus UNIX”.
