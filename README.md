@@ -8,16 +8,16 @@ Subjects listed, importance explained, hyperlink to full tutorial.
 Vitualisation; create a virtual computer, on a computer, using software. 
 
 Many benefits:
-- Don't f up your computer if you screw something up.
-- Standardisation of "hardware" if working in a team.
-- Snapshots of current state, mistake can be reversable.
+- Don't f your computer if you screw something up.
+- Standardisation of "hardware"; if working in team.
+- Snapshots of current state; reverse mistakes.
 
 ## UNIX/LINUX
 
-Late  1960s; Kenneth Thompson, and Dennis Ritchie, develop Unix.   
-Early 1970s; Rewritten in C, Unix is one of the first operating systems able to run on any hardware.   
-Late  1970s; V7 Unix was released, the grandfather of all extant Unix systems.  
-Late  1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix. Hardware vendors switched to AT&T. AT&T won the "war", however, System V incorporated many BSD innovations, so more of a merger. Though BSD did not die.
+1960s; Kenneth Thompson, and Dennis Ritchie, develop Unix.   
+1970s; Rewritten in C, Unix is one of the first operating systems able to run on any hardware.   
+1970s; V7 Unix was released, the grandfather of all extant Unix systems.  
+1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix. Hardware vendors switched to AT&T. AT&T won the "war", however, System V incorporated many BSD innovations, so more of a merger. Though BSD did not die.
 The result was many versions of Unix. Most proprietary, though three open source versions remained: FreeBSD, NetBSD, and OpenBSD.
 
 Unix history, Linux History
