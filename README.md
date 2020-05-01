@@ -20,11 +20,10 @@ Early 1970s; Rewritten in C, Unix is one of the first operating systems able to 
 Late  1970s; V7 Unix was released, the grandfather of all extant Unix systems.  
 Late  1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix.   
 
-AT&T won the “standards war”. Hardware vendors switched to AT&T. However, System V incorporated many BSD innovations, so more of a merger. 
-BSD did not die, widely used for research, PC hardware, and single-purpose servers. 
-The result was many versions of Unix. Most proprietary, though three open source versions: FreeBSD, NetBSD, and OpenBSD.
+Hardware vendors switched to AT&T. AT&T won the "war", however, System V incorporated many BSD innovations, so more of a merger. Though BSD did not die.
+The result was many versions of Unix. Most proprietary, though three open source versions remained: FreeBSD, NetBSD, and OpenBSD.
 
-A slightly old but interesting advocacy piece that presents arguments for using Unix-like systems (instead of Microsoft’s products) is John Kirch’s paper “Microsoft Windows NT Server 4.0 versus UNIX”.
+Old yet interesting advocacy piece arguing for using Unix (instead of Microsoft) is John Kirch’s paper “Microsoft Windows NT Server 4.0 versus UNIX”.
 
 
 
