@@ -16,7 +16,7 @@ Many benefits:
 Unix history, Linux History
 
 Late  1960s; Kenneth Thompson, and Dennis Ritchie, develop Unix.   
-Early 1970s; The system is rewritten in the C programming language. Due to this Unix was the one of the first operating systems that could switch hardware.   
+Early 1970s; Unix rewritten in C programming language, is one of the first operating systems that could run on any hardware.   
 Late  1970s; the “seventh edition” (V7) version of Unix was released, the grandfather of all extant Unix systems.  
 Late  1980s; "War” raged. Academia, led by Berkeley, developed the Berkeley Software Distribution (BSD), AT&T developed Unix under the names “System III” and later “System V”.   
 
