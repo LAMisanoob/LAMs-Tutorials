@@ -16,11 +16,13 @@ Many benefits:
 Unix history, Linux History
 
 Late  1960s; Kenneth Thompson, and Dennis Ritchie, develop Unix.   
-Early 1970s; Unix rewritten in C programming language, is one of the first operating systems that could run on any hardware.   
-Late  1970s; the “seventh edition” (V7) version of Unix was released, the grandfather of all extant Unix systems.  
-Late  1980s; "War” raged. Academia, led by Berkeley, developed the Berkeley Software Distribution (BSD), AT&T developed Unix under the names “System III” and later “System V”.   
+Early 1970s; Rewritten in C, Unix is one of the first operating systems able to run on any hardware.   
+Late  1970s; V7 Unix was released, the grandfather of all extant Unix systems.  
+Late  1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix.   
 
-Each adopted features of the other. AT&T won the “standards war”. Hardware vendors switched to AT&T. However, System V incorporated many BSD innovations, so more of a merger. BSD did not die, widely used for research, PC hardware, and single-purpose servers. The result was many versions of Unix, based on the seventh edition. Most were proprietary, maitnained by hardware vendors, three versions ended up as open source: FreeBSD, NetBSD, and OpenBSD.
+AT&T won the “standards war”. Hardware vendors switched to AT&T. However, System V incorporated many BSD innovations, so more of a merger. 
+BSD did not die, widely used for research, PC hardware, and single-purpose servers. 
+The result was many versions of Unix. Most proprietary, though three open source versions: FreeBSD, NetBSD, and OpenBSD.
 
 A slightly old but interesting advocacy piece that presents arguments for using Unix-like systems (instead of Microsoft’s products) is John Kirch’s paper “Microsoft Windows NT Server 4.0 versus UNIX”.
 
