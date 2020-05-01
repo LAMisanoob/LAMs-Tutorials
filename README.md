@@ -1,8 +1,8 @@
 # LAMS-TUTORIALS
 
-Repository of tutorials/cheatsheets to refresh my memory while learning about Linux/GNU, and programming. 
+Tutorials/cheatsheets to refresh my memory while learning about Linux/GNU, and programming. 
 
-Below is a list of subjects covered, why they are important, and a hyperlink to a full tutorial.
+Subjects are listed, importance explained, a hyperlink offered for the full tutorial.
 
 ## VIRTUAL BOX
 Vitualisation is a way of creating a computer on a computer using software. There are many benefits to this.
