@@ -8,7 +8,7 @@ Subjects listed, importance explained, hyperlink to full tutorial.
 Vitualisation; create a virtual computer, on a computer, using software. 
 
 Many benefits:
-- Don't f up a computer everytime you screw with something important.
+- Don't f up your computer if you screw something up.
 - Standardisation of "hardware" if working in a team.
 - Snapshots of current state, mistake can be reversable.
 
