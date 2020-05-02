@@ -2,7 +2,7 @@ LAM'S TUTORIALS
 ===============
 **Tutorials to refresh my memory while learning about Linux/GNU, listed in the order it is best to learn them.**   
 
-Friend introduced me to Linux, sped up my learning no end. Found myself forgetting bits and searching for tutorials to refresh my memory, often leaving me with hundreds of tabs in my browser, and sometimes forgetting to bookmark and not being being able to find them again. So here I document all the things I have learnt so far.
+Experienced friend introduced me to Linux, speeding up my learning no end. Found myself forgetting bits and searching for tutorials to refresh my memory, with hundreds of tabs in my browser, and sometimes forgetting to bookmarks, I would have to search to find them again. So instead I decided to document the things I have learnt so far here.
 
 VIRTUAL BOX:
 ----------------------------------------------------------------------
