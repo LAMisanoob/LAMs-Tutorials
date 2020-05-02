@@ -1,12 +1,12 @@
 
 > **Tutorials to refresh memory**; Introduced to Linux by experienced friend, sped up my learning. ~~Forget bits, search for tutorials, tab overwhelm, close browser, didn't bookmark, f@#$!, search again, repeat.~~ Document learning here.
 
-VIRTUAL BOX:
-============
-**Creating a virtual computer on your computer**
+VIRTUAL BOX
+===========
+**Create a virtual computer on your computer**
+> Working in a virtual machine (VM) is top priority. When first learning Linux I regularly reinstalled directly onto my machine; wanted to try different distros, or to have a fresh install. VMs speed up the process, never leaving you without a working machine. I quickly learnt from my mistakes.
 ###### Benefits: Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools. Won't bork your main driver if you screw something up.
 
-Highly recommend learning to use a virtual machine (VM) as the first thing to learn. When first learning Linux I regularly reinstalled directly onto my machine, due to wanting to try different distros, or wanting a fresh install. A VM speeds up the process, and never leaves you without a machine to work on. I quickly learnt from my mistakes.
 
 Link to Virtual Box setup and use tutorial.
 
