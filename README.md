@@ -3,11 +3,12 @@ LAMS-TUTORIALS
 
 Tutorials/cheatsheets to refresh my memory while learning about Linux/GNU, and programming. 
 
-Subjects listed in an order that I feel it is worth learning them in, importance of each explained, hyperlink to full tutorial.
+Subjects in an order it best to learn them, importance explained, linked to full tutorial.
 
 
-VIRTUAL BOX: software for creating a virtual computer on your computer 
+VIRTUAL BOX:
 ----------------------------------------------------------------------
+#####Creating a virtual computer on your computer
 ###### Benefits: Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools. Won't bork your main driver if you screw something up.
 
 Highly recommend learning to use a virtual machine (VM) being the first thing to learn. When first learning Linux I regularly reinstalled directly onto my machine, due to wanting to try different distros, or wanting a fresh install. A VM speeds the process up, and never leaves you without a machine to work on. I quickly learnt from my mistakes.
