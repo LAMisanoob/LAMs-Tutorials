@@ -1,9 +1,9 @@
-LAMS-TUTORIALS
-==============
+LAM'S TUTORIALS
+===============
 ### Tutorials/cheatsheets to refresh my memory while learning about Linux/GNU, and programming.   
-### Subjects in an order it best to learn them, importance explained, linked to full tutorial.
-###      
-
+### Subjects in an order it best to learn them, importance explained, linked to full tutorial.  
+   
+   
 VIRTUAL BOX:
 ----------------------------------------------------------------------
 ##### Creating a virtual computer on your computer
