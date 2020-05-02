@@ -1,6 +1,6 @@
 LAM'S TUTORIALS
 ===============
-### Tutorials to refresh my memory, listed in the order I feel it is best to learn them.   
+**Tutorials to refresh my memory, listed in the order I feel it is best to learn them.**  
 
 ###### Introduced to Linux by experienced friend, sped up learning no end. Forget bits, search for tutorials, hundreds of tabs in browser, forget to bookmark. Search to find them again. Document things I learn here.
 
