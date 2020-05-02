@@ -1,9 +1,9 @@
 
 #### Tutorials, to refresh memory, in the order I feel it best to learn them.    
-Introduced to Linux by experienced friend, sped up learning no end. Forget bits, search for tutorials, hundreds of tabs in browser, forget to bookmark. Search to find them again. Document things I learn here.
+###### Introduced to Linux by experienced friend, sped up learning no end. Forget bits, search for tutorials, hundreds of tabs in browser, forget to bookmark. Search to find them again. Document things I learn here.
 
 VIRTUAL BOX:
-----------------------------------------------------------------------
+============
 **Creating a virtual computer on your computer**
 ###### Benefits: Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools. Won't bork your main driver if you screw something up.
 
