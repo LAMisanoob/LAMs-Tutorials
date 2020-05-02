@@ -4,7 +4,7 @@
 VIRTUAL BOX
 ===========
 **Create a virtual computer on your computer**
-> Working in a virtual machine (VM) is top priority. When first learning Linux I regularly reinstalled directly onto my machine; wanted to try different distros, or to have a fresh install. VMs speed up the process, never leaving you without a working machine. I quickly learnt from my mistakes.
+> Top priority. When first learning Linux I regularly reinstalled directly onto my machine; wanted to try different distros, or to have a fresh install. VMs speed up the process, never leaving you without a working machine. I quickly learnt from my mistakes.
 ###### Benefits: Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools. Won't bork your main driver if you screw something up.
 
 
