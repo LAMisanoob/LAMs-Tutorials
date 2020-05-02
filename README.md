@@ -4,6 +4,7 @@
 VIRTUAL BOX
 ===========
 **Create a virtual computer on a computer.**    
+
 Using this tutorial as a walkthrough? Do this first! When you want to mess around with new things doing it in VMs speed up the process, never leave you without a working machine, and have many other benefits.
 ###### Benefits: Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools. Won't bork your main driver if you screw something up.
 
