@@ -1,5 +1,5 @@
 
-> **Tutorials: to refresh memory;** Introduced to Linux by experienced friend, sped up my learning. Forgot bits, search tutorials, all the tabs in browser, forgot to bookmark, search to find them again. Instead document things here.
+> **Tutorials: to refresh memory;** Introduced to Linux by experienced friend, sped up my learning. Forgot bits, search for tutorials, tab overwhelm, close browser, didn't bookmark, search to find them again. Solution, document learning here.
 
 VIRTUAL BOX:
 ============
