@@ -1,5 +1,5 @@
 
-###### **Tutorials to refresh memory, in the order I feel it best to learn them.** Introduced to Linux by experienced friend, sped up learning no end. Forget bits, search for tutorials, hundreds of tabs in browser, forget to bookmark. Search to find them again. Document things I learn here.
+**Tutorials to refresh memory, in the order I feel it best to learn them.** Introduced to Linux by experienced friend, sped up learning no end. Forget bits, search for tutorials, hundreds of tabs in browser, forget to bookmark. Search to find them again. Document things I learn here.
 
 VIRTUAL BOX:
 ----------------------------------------------------------------------
