@@ -12,9 +12,9 @@ Benefits:
 - Standardisation of "hardware"; if working in team.
 - Snapshots of current state; reverse mistakes.
 
-## UNIX/LINUX
+## LINUX
 
-Clone of the Unix operating system, has an awesome history. Philsophy of free software; not as in costing nothing, though it often does, but as in freedom of choice, opensource. Many things run on Linux; many servers, therefore much of the internet, smartphones (android), personal computers (many use Linux, and OSx is a varient of BSD which is a proprietary version of Unix).
+Unix-like operating system, with an awesome history. Philsophy of free software; not as in costing nothing, though it often does, but as in freedom of choice, opensource. Many things run on Linux; many servers, therefore much of the internet, smartphones (android), personal computers (many use Linux, and OSx is a varient of BSD, a proprietary version of Unix).
 
 Linux can be broken down into many parts.
 
