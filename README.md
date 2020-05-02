@@ -10,7 +10,7 @@ GNU/LINUX
 =========
 
 **Unix-like OS, with an awesome history.** Use Linux! It has an opensource philosophy, powerful tools, and runs an ever increasing amount of things we use every day; servers, smartphones (android), and personal computers.
-###### Benefits: Opensource and maintained by the masses, security due to many eyes, powerful tools, highly customisable, is lkely the future of computer operating systems.
+###### Benefits: Opensource, community support, privacy, secure, performance, regular updates, flexible, highly customisable, likely the future of computer operating systems.
 
 ## BASH
 
