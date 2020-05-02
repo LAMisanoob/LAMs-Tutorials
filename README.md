@@ -6,8 +6,7 @@ Tutorials/cheatsheets to refresh my memory while learning about Linux/GNU, and p
 Subjects listed in an order that I feel it is worth learning them in, importance of each explained, hyperlink to full tutorial.
 
 VIRTUAL BOX
------------
-
+----------- 
 #### Vitualisation; create a virtual computer, on a computer, using software 
 ###### Benefits: Won't f your main driver if you screw something up. Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools.
 
