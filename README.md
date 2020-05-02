@@ -9,16 +9,7 @@ VIRTUAL BOX
 GNU/LINUX
 =========
 
-Unix-like OS, with an awesome history. Free software philosophy; not as in cost, but as in freedom of choice, opensource. An ever increasing amount of things run on Linux; supercomputers, servers and therefore the internet, smartphones (android), personal computers (many use Linux, and OSx is a varient of BSD, a proprietary version of Unix).
-
-Linux can be broken down into many parts.
-
-Bootloader; Initialises hardware and starts Kernal.
-Kernal; Interacts with hardware, does memory management, task scheduling, file management, etc.
-
-Shell; A way to interact with your computer using a text interface. Interprets commands
-
-
+**Unix-like OS, with an awesome history.** Use Linux! It has an opensource philosophy, powerful tools, and runs an ever increasing amount of things we use every day; servers, smartphones (android), and personal computers.
 
 ## BASH
 
