@@ -1,4 +1,4 @@
-## What is a Virtual Machine?
+# What is a Virtual Machine?
 
 Software that creates a virtual hardware enviroment, thereby allowing one to run an operating system ontop of whatever operating system you are currently using.
 
@@ -10,7 +10,7 @@ Software that creates a virtual hardware enviroment, thereby allowing one to run
 
  - Disaster Recovery; Save the state of a virtual machine and revert back to that state, and travel back and forward in virtual machine time.
 
-## Virtual Box Installation
+# Virtual Box Installation
 
 For this tutorial I will be using Virtual Box an open source, multiplatform, virtualisation machine. 
 
@@ -18,7 +18,7 @@ For more information on Virtual Box and to download directly for the website cli
 
 Follow the instructions on the website to install Virtual Box on your operating system.
 
-## Virtual Box Set-Up
+# Virtual Box Set-Up
 
 Run Virtual Box. A wizard will open to assist you in setting up a new virtual machine. 
 
@@ -68,7 +68,7 @@ Click 'Create'.
 
 You have now created your virtual machine, the next step is to install Ubuntu on it.
 
-## Installing Ubuntu on a Virtual Machine
+# Installing Ubuntu on a Virtual Machine
 
 In Virtual Box click the newly created virtual machine tab on the left, then click settings.
 
