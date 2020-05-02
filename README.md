@@ -3,8 +3,7 @@
 
 VIRTUAL BOX
 ===========
-**Create a virtual computer on your computer**
-Top priority. When first learning Linux I wanted to try different distros, or to have a fresh install. VMs speed up the process, never leaving you without a working machine, and have many other benefits.
+**Create a virtual computer on your computer** If you are using this tutorial as a walkthrough make this the first thing you do. When first learning Linux I often wanted to try different distros, or refresh my current install, VMs speed up the process, never leaving you without a working machine, and have many other benefits.
 ###### Benefits: Standardisation of "hardware"; if working in a team. Snapshots of current state; can reverse mistakes. Run Linux on any OS; tutorial are on Linux and its tools. Won't bork your main driver if you screw something up.
 
 
