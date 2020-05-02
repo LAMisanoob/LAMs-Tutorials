@@ -5,9 +5,9 @@ Tutorials/cheatsheets to refresh my memory while learning about Linux/GNU, and p
 Subjects listed, importance explained, hyperlink to full tutorial.
 
 ## VIRTUAL BOX
-Vitualisation; create a virtual computer, on a computer, using software. 
+Virtualisation; create a virtual computer, on a computer, using software. 
 
-Many benefits:
+Benefits:
 - Won't f your computer if you screw something up.
 - Standardisation of "hardware"; if working in team.
 - Snapshots of current state; reverse mistakes.
