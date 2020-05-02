@@ -14,11 +14,8 @@ Many benefits:
 
 ## UNIX/LINUX
 
-1960s; Kenneth Thompson, and Dennis Ritchie, develop Unix.   
-1970s; Rewritten in C, Unix is one of the first operating systems able to run on any hardware.   
-1970s; V7 Unix was released, the grandfather of all extant Unix systems.  
-1980s; "War” raged. Berkeley, and AT&T contiued to develop Unix. Hardware vendors switched to AT&T. AT&T won the "war", however, System V incorporated many BSD innovations, so more of a merger. Though BSD did not die.
-The result was many versions of Unix. Most proprietary, though three open source versions remained: FreeBSD, NetBSD, and OpenBSD.
+**1960s-1970s;** Kenneth Thompson, and Dennis Ritchie, develop the Unix operating system in assembly language. Ritchie develops the C programming language from Thompson's B. Unix rewritten in C, first OS able to run on any hardware.     
+**1980s-1990s;** "War” between Berkeley and AT&T. AT&T wins, though assimilated much of Berkley's Unix, so more of a merger. POSIX forms, attempting to standardise operating systems. Richard Stallman forms FSF/GNU, attempts to create a free Unix; free, meaning software that could be freely used, read, modified, and redistributed. Stallman develops many useful tools such as a C compiler (gcc), and a Text Editor (emacs), though had difficulties developing an OS kernel. Linus Torvalds develops an OS kernel; Linux. Linux combined with FSF/GNU components and others; BSD components, and MIT’s X-windows; produce a free Unix. Components are put together in different combinations, each combination called a 'distribution'. Common distributions include Ubuntu, Fedora, and Debian. There are differences, but all have the same foundation; the Linux kernel and GNU glibc libraries, both having “copyleft” style licenses; meaning changes generally must be made available to all, a unifying force between the Linux distributions that does not exist between the BSD and AT&T-derived Unix systems.
 
 Unix history, Linux History
 
