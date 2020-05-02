@@ -1,6 +1,6 @@
 LAM'S TUTORIALS
 ===============
-Tutorials/cheatsheets, in the order it is best to learn them, to refresh my memory while learning about Linux/GNU.   
+**Tutorials to refresh my memory while learning about Linux/GNU, listed in the order it is best to learn them.**   
    
 VIRTUAL BOX:
 ----------------------------------------------------------------------
