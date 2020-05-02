@@ -7,7 +7,7 @@ Subjects listed in an order that I feel it is worth learning them in, importance
 ## VIRTUAL BOX
 Virtualisation; create a virtual computer, on a computer, using software. 
 
-I would highly recommend using a virtual machine when learning new things. When I first crossed over to Linux I was reinstalling directly onto the machine reguarly to try different distros, and also because I wanted a fresh install that I hadn't yet messed with. Doing it this way speeds up the process, and never leaves you without a machine to work on. I quickly learnt from my mistakes.
+I would highly recommend using a virtual machine (VM) when learning new things. When I first crossed over to Linux I was reinstalling directly onto my machine reguarly to try different distros, and also because I wanted a fresh install that I hadn't yet messed with. A VM speeds the process up, and never leaves you without a machine to work on. I quickly learnt from my mistakes.
 
 Benefits:
 - Won't f your main driver if you screw something up.
