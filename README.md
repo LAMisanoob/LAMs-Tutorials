@@ -14,17 +14,16 @@ Benefits:
 
 ## UNIX/LINUX
 
-**1960s-1970s;** Kenneth Thompson and Dennis Ritchie develop Unix operating system in assembly language. Ritchie develops the C programming language from Thompson's B. Unix rewritten in C, first OS able to run on any hardware.    
+Clone of the Unix operating system, has an awesome history. Philsophy of free software; not as in costing nothing, though it often does, but as in freedom of choice, opensource. Many things run on Linux; many servers, therefore much of the internet, smartphones (android), personal computers (many use Linux, and OSx is a varient of BSD which is a proprietary version of Unix).
 
-**1980s-1990s;** POSIX forms, attempting to standardise OSs. Richard Stallman forms Free Software Foundation, attempting to create a free Unix; 'free' meaning freely used, read, modified, and redistributed. FSF develop many GNU tools; C compiler (gcc), Text Editor (emacs), Bourne-again Shell (Bash); though has difficulties developing a kernel. Linus Torvalds develops an kernel; Linux. Linux combined with FSF/GNU components, BSD components, and MIT’s X-windows give birth to a free Unix. Components are put together in different combinations; combinations are called 'distributions', such as Ubuntu, Fedora, and Debian; though they all have the same foundation, the Linux kernel and GNU glibc libraries, which have “copyleft” licenses, a unifying force between Linux distributions that does not exist between BSD and AT&T-derived Unix systems.
+Linux can be broken down into many parts.
 
-Linux File System
+Bootloader; Initialises hardware and starts Kernal.
+Kernal; Interacts with hardware, does memory management, task scheduling, file management, etc.
 
-the fact so many things run on it, and this trend seems to be increasing.
+Shell; A way to interact with your computer using a text interface. Interprets commands
 
-The benefits, and importance, of open source.
 
-Description of a kernal, and the shell; reference BASH and OPENBOX documents.
 
 ## BASH
 
