@@ -14,7 +14,7 @@ Benefits:
 
 ## GNU/LINUX
 
-Unix-like OS, with an awesome history. Free software philosophy; not as in costing nothing, though it often does, but as in freedom of choice, opensource. An ever increasing amount of things run on Linux; supercomputers, servers and therefore the internet, smartphones (android), personal computers (many use Linux, and OSx is a varient of BSD, a proprietary version of Unix).
+Unix-like OS, with an awesome history. Free software philosophy; not as in cost, but as in freedom of choice, opensource. An ever increasing amount of things run on Linux; supercomputers, servers and therefore the internet, smartphones (android), personal computers (many use Linux, and OSx is a varient of BSD, a proprietary version of Unix).
 
 Linux can be broken down into many parts.
 
