@@ -2,27 +2,23 @@
 
 **What is GIT?**
 
-Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Open source distributed version control system.
 
 **What is Distributed Version Control?**
 
-Distributed version control systems (DVCS) use a peer-to-peer approach to version control, as opposed to the client–server approach of centralized systems. Distributed revision control synchronizes repositories by transferring patches from peer to peer. There is no single central version of the codebase; instead, each user has a working copy and the full change history.
+Peer-to-peer approach to version control, as opposed to the client–server approach of centralized systems. Distributed revision control synchronizes repositories by transferring patches from peer to peer. No single central version of the codebase; each user has a working copy and the full change history.
 
-Put simply, each person in a team has a copy of the project, they edit their copy of the project and update a local database with the reason for their edits all of this initially being stored locally on their computer. These are all then pushed up to a shared version, which is where GitHub comes in.
+Put simply, each person in a team has a copy of the project, edit their copy of the project and update a local database detailing a reason for their edits, this all being stored locally on their computer. Then pushed chanegs to a shared version, which is where GitHub comes in.
 
 **What is GitHub?**
 
-Beings that you are using GitHub to read this I imagine you already have a vague idea of what GitHub is, but for the sake of being thorough.
+You are using GitHub to read this so you have a vague idea of what GitHub is, but for the sake of being thorough.
 
-This is a place for to store and share the centralised version of the project. The benefits of GitHub is that one can issue commands from a command line shell. I shall undate this document further to have mnore information, though for now I feel this is enough.
+A place for to store and share the centralised version of the project. One can issue commands from the command line to perform most tasks.
 
 ## Install GIT
 
-Realtively straightforward just go to the command line and type.
-
-```
-$ sudo apt install git-all
-```
+In ubuntu type `$ sudo apt install git-all` at the command line.
 
 ## Create a GitHub Account
 
@@ -30,27 +26,18 @@ Go to [GitHub](https://github.com/join) and sign up.
 
 ## Create a local GIT repository
 
-This is where is gets slightly more complex for a beginner though still realtively straitforward.
+Type the following at the command line.
 
-One will neede to make a project directory in one's home directory.                                                                                                                                                                           
-                                                                                                                                                                                                                                              
-```                                                                                                                                                                                                                                           
-$ mkdir Projects                                                                                                                                                                                                                              
-```                                                                                                                                                                                                                                           
-                                                                                                                                                                                                                                              
-Enter this directory                                                                                                                                                                                                                          
-                                                                                                                                                                                                                                              
-```                                                                                                                                                                                                                                           
-$ cd Projects
-```
+Make directory in home directory.
+`$ mkdir Projects` 
 
-Then create a directory for you specific project, we shall call this one LFS-Suckless
+Move to this directory.
+`$ cd Projects`
 
-```
-$ mkdir LFS-Suckless
-```
+Make directory for your specific project, this one is called git-intial-setup.
+`$ mkdir git-intial-setup`
 
-We now need to initialise GIT in this specific  project directory enter the directory and intitalise GIT.
+Enter the directory for the specific project, and intitalise GIT.
 
 ``` 
 $ cd LFS-Suckless
