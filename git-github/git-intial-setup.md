@@ -28,20 +28,20 @@ Go to [GitHub](https://github.com/join) and sign up.
 
 Type the following at the command line.
 
+Make a directory `$ mkdir project` Move to this directory `$ cd project` Intitalise GIT `$ git init`
 
-`$ mkdir Projects` Make directory in home directory.
+## Add a file to the repository
 
-`$ cd Projects` Move to this directory.
+Create a README.md using Neo-Vim `$ nvim README.md` Write a description of your project, I would recommend learning markdown.
 
-`$ mkdir git-intial-setup` Make directory for your specific project, this one is called git-intial-setup.
+Once you have saved the file check the status of git repo using `$ git status` See what changed have been made and not yet added or commited.
 
-Enter the directory for the specific project, and intitalise GIT.
+Add the file to the repo `$ git add README.md`
 
-``` 
-$ cd LFS-Suckless
-$ git init
-```
+Commit the changes and leave a comment `$ git commit -m "your comment goes here"`
 
-Next we create a README.md in markdown using Neo-Vim and then look at how to update GIT and create a repository on GitHub.
+
+
+and then look at how to update GIT and create a repository on GitHub.
 
 
