@@ -28,14 +28,12 @@ Go to [GitHub](https://github.com/join) and sign up.
 
 Type the following at the command line.
 
-Make directory in home directory.
-`$ mkdir Projects` 
 
-Move to this directory.
-`$ cd Projects`
+`$ mkdir Projects` Make directory in home directory.
 
-Make directory for your specific project, this one is called git-intial-setup.
-`$ mkdir git-intial-setup`
+`$ cd Projects` Move to this directory.
+
+`$ mkdir git-intial-setup` Make directory for your specific project, this one is called git-intial-setup.
 
 Enter the directory for the specific project, and intitalise GIT.
 
