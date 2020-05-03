@@ -13,22 +13,23 @@
 ###### Benefits: Performance, Opensource, community support, secure, regular updates, flexible, likely the future of computer operating systems.
 
 ## BASH
+Bash is a shell, or command language interpreter, for the GNU/Linux operating system, most things can be done in a command line. Acronym for the ‘Bourne-Again SHell’, a pun on Stephen Bourne, author of the Unix shell sh. 
+###### Benefits: Often faster than using a GUI, especially if one writes a bash script, tasks can be performed using little resources.
 
-
-## GITHUB
-
+## GIT/GITHUB
+Version control, revison-control, a cloud to store source code remotely.
 
 ## MARKDOWN/LATEX
-
+Way of writing in a basic text editor which allow the formatting to be interpreted universally.
 
 ## NEOVIM/EMACS
-
+Basic text editors with extra functionality streamling onces work.
 
 ## XORG
-
+Display manager, deals with input and output.
 
 ## OPENBOX
-
+Window manager, deals with window decoration.
 
 
 
